@@ -1,0 +1,29 @@
+{
+  "name": "blockchain-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacksagar/blockchain-concepts.git"
+  },
+  "keywords": [
+    "blockchain-concepts"
+  ],
+  "author": "stacksagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacksagar/blockchain-concepts/issues"
+  },
+  "homepage": "https://github.com/stacksagar/blockchain-concepts#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.3"
+  }
+}
