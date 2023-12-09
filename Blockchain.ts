@@ -1,5 +1,5 @@
 export interface Block {
-  data: any; 
+  data: any;
   hash: string;
   previousHash: string;
   timestamp: string;
